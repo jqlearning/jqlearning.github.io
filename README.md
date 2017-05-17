@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/jqlearning/jqlearning.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jqlearning/jqlearning.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# #欢迎GitHub页面
+您可以使用[编辑]在GitHub（https://github.com/jqlearning/jqlearning.github.io/edit/master/readme.md）维护和预览内容，您在Markdown文件的网站。
+每当你承诺这个库，GitHub页面将[博士]（https://jekyllrb.com/）来重建你的网站页面，从在Markdown文件的内容。
+# # #降价
+降价是一个轻量级的，易于使用的设计你的写作语法。它包括公约
+` ` `降价
+语法高亮代码块
+#头1
+# #头2
+# # #头3
+-项目符号
+表
+1。编号
+2。列表
+* * * *和大胆_italic_和`代码`文本
+[链接]（URL）和！[形象]（SRC）
+` ` `
+详情请参阅[ GitHub味降价]（https：／／指南。GitHub。COM /功能/掌握降价/）。
+# # # Jekyll主题
+你的网页的站点将使用从Jekyll主题你在[设置]选择库的布局和样式（http：/ / GitHub。COM / jqlearning / jqlearning。GitHub。IO /设置）。这个主题的名字是保存在Jekyll ` _config YML `配置文件。
+# # #支持或联系
+有麻烦的网页？看看我们的[文件]（https://help.github.com/categories/github-pages-basics/）或[接触]（支持https://github.com/contact），我们会帮你整理。

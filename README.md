@@ -1,0 +1,2 @@
+# jqlearning.github.io
+myownblog
